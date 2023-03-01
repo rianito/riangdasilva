@@ -33,3 +33,5 @@ Hi, I'm Rian, a software developer from Brazil. I'm interessed about technology 
 - [Cybersecurity Essentials](https://www.credly.com/badges/e1d919b4-9253-45a2-9c97-fc5d6a386548/public_url) | October 22, 2022;
 - [CCNA: Introduction to Networks](https://www.credly.com/badges/9b4ebecf-22ac-4ce8-8215-fe5667073281/public_url) | January 21, 2023;
 - CyberOps Associate | In progress.
+
+![](https://komarev.com/ghpvc/?username=riangdasilva)
