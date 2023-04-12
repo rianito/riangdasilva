@@ -1,6 +1,6 @@
 <img src="undraw_programming_re_kg9v.svg" alt="man programming" width="400"/>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,docker,express,fastapi,flask,git,github,heroku,html,js,linux,mongodb,mysql,nodejs,py,react,redux,replit,selenium,sqlite,tailwind,ts,vite,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,sass,docker,express,fastapi,flask,git,github,html,js,linux,mongodb,mysql,nodejs,py,react,redux,selenium,sqlite,tailwind,ts,vite,vscode&perline=8)](https://skillicons.dev)
 
 # About me
 
